@@ -1,2 +1,2 @@
-# prework-kamel
+# prework-study-guide
 training 
